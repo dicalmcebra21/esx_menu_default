@@ -5,4 +5,5 @@ In server.cfg
 start esx_menu_default
 
 image:
-https://imgur.com/undefined
+https://imgur.com/a/BTwx739
+
