@@ -3,3 +3,6 @@
 In server.cfg
 
 start esx_menu_default
+
+image:
+https://imgur.com/a/K2FfjfI
